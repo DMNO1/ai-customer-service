@@ -1,0 +1,13 @@
+# Minimal requirements for initial testing
+flask==2.3.3
+flask-cors==4.0.0
+PyPDF2==3.0.1
+pdfplumber==0.9.0
+python-docx==1.1.0
+beautifulsoup4==4.12.2
+requests==2.31.0
+openai==1.35.10
+anthropic==0.25.0
+zhipuai==2.0.1
+dashscope==1.19.1
+python-dotenv==1.0.0

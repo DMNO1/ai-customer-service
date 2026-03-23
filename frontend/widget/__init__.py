@@ -1,0 +1,1 @@
+# Frontend widget package init
